@@ -1,0 +1,11 @@
+_BLEG
+_ROCK
+_SOIL
+_SS
+__pycache__
+.env
+
+*.sqlite
+*.txt
+
+read_bleg.py

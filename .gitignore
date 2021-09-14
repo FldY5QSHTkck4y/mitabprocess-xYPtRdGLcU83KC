@@ -9,3 +9,4 @@ __pycache__
 *.txt
 
 read_bleg.py
+_g_*.py
